@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://ajkim41:2kingdoms@devconnector-pkokv.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
